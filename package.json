@@ -2,6 +2,7 @@
   "name": "portrack",
   "version": "0.0.0",
   "dependencies": {},
+  "description": "portract project",
   "scripts": {
     "test": "gulp test"
   },
@@ -51,5 +52,9 @@
   },
   "engines": {
     "node": ">=0.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/TheGapFillers/Portrack2"
   }
 }
